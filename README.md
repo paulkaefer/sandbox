@@ -8,3 +8,6 @@ but isn't worth pushing to the master branch.
 This kind of branch can be called **investigations** or **ad-hoc** or something similar,
 as it may be used to store code that was used for a special, *ad hoc* purpose, but [we](https://en.wikipedia.org/wiki/Royal_we)
 may eventually want to revisit.
+
+**Note** that we *never* intend to [merge](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) this branch back into the master.
+It exists solely as a place to stash code.
